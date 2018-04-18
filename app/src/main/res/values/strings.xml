@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="button_compass">Compass</string>
+    <string name="button_sensors">Sensors</string>
+</resources>
